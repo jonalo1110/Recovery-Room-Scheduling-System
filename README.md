@@ -10,9 +10,9 @@ This project demonstrates full-stack development, REST API integration, database
 **Today View**  
   <img src="/todays-appointments.png" alt="Home Screen" width="250"/>
 **Upcoming Appointments**  
-  <img src="assets/booking.png" alt="Home Screen" width="250"/>
+  <img src="/booking-screen.png" alt="Home Screen" width="250"/>
 **Create Booking**
-  <img src="assets/upcoming-appointments.png" alt="Home Screen" width="250"/>
+  <img src="/upcoming-appointments.png" alt="Home Screen" width="250"/>
 
 ---
 
