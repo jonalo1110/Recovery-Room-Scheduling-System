@@ -4,7 +4,7 @@ A front-desk scheduling application built with **Flutter**, **Node.js/Express**,
 This project demonstrates full-stack development, REST API integration, database design, and real-world business logic.
 
 ---
-
+<p float="left">
 ## Screens
 
 **Today View**  
@@ -13,6 +13,7 @@ This project demonstrates full-stack development, REST API integration, database
   <img src="/booking-screen.png" alt="Home Screen" width="250"/>
 **Create Booking**
   <img src="/upcoming-appointments.png" alt="Home Screen" width="250"/>
+</p>
 
 ---
 
