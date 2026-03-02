@@ -1,0 +1,16 @@
+# --- secrets ---
+**/.env
+**/.env.*
+
+# --- Node ---
+**/node_modules/
+**/*.log
+
+# --- Flutter/Dart ---
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# --- OS ---
+.DS_Store
